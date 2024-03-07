@@ -20,4 +20,4 @@ test:
    
 logging:
   file:
-    name : /Users/javatechie/Desktop/logs/ecom-app.log
+    name : C:\Users\gnane\OneDrive\Desktop\log
