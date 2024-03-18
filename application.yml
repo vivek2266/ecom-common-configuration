@@ -20,4 +20,4 @@ test:
    
 logging:
   file:
-    name : C:\Users\gnane\OneDrive\Desktop\log\ecom-log
+    name : C:\Users\gnane\OneDrive\Desktop\log\ecom-app.log
